@@ -1,7 +1,15 @@
+@font-face {
+  font-family: digital;
+  src: url(../../fonts/digital-7.ttf);
+}
+
 .time {
   font-size: 13vw;
-  color: #461346;
+  color: #393339;
   margin: auto;
+  /* font-family: clockicons, sans-serif; */
+  /* font-family: "Tilt Prism", cursive; */
+  font-family: digital;
 }
 
 .stopwatch {
