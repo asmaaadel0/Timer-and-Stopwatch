@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+## 📝 Table of Contents
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [About <a name = "about"></a>](#about-)
+- [website description <a name = "website-description"></a>](#website-description-)
+- [How to Use <a name = "How-to-Use"></a>](#How-to-Use-)
+- [Website link <a name = "link"></a>](#website-link-)
+- [vedio <a name = "vedio"></a>](#vedio-)
+- [Contributors <a name = "Contributors"></a>](#contributors-)
+- [License <a name = "License"></a>](#License-) 
+## About <a name = "about"></a>
+-  investment calculator is a tool designed to help users estimate the growth of their savings over a specific investment duration.
+-   it takes into account the initial/current savings, yearly savings, expected interest rate, and investment duration to calculate various financial metrics for each year.
 
-## Available Scripts
+## website description <a name = "website-description"></a>
 
-In the project directory, you can run:
+Investment Calculator is a powerful tool that empowers you to visualize the growth of your savings. By entering your current savings, yearly savings amount, expected interest rate, and investment duration, calculator generates detailed projections for each year. Discover the potential growth of your savings, track the interest earned over time, and make well-informed investment decisions. Start planning for your financial future today with our intuitive and user-friendly Investment Calculator.
 
-### `npm start`
+## How to Use <a name = "How-to-Use"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Clone the repository: `git clone https://github.com/asmaaadel0/Investment-Calculator.git`
+- Install dependencies: `npm install`
+- Start the development server: `npm start`
+- Open your browser and visit: `http://localhost:3000`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Website link <a name = "link"></a>
+- https://investment-calculator-seven.vercel.app/
 
-### `npm test`
+## vedio <a name = "vedio"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+https://github.com/asmaaadel0/Investment-Calculator/assets/88618793/aa6b536c-1b22-4a6a-9f55-734e9802743b
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributors <a name = "Contributors"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/asmaaadel0" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/88618793?s=400&u=886a14dc5ef5c205a8e51942efe9665ed8fd4717&v=4" width="150px;" alt="Asmaa Adel"/>
+    <br />
+    <sub><b>Asmaa Adel</b></sub></a>
+    
+  </tr>
+ </table>
 
-### `npm run eject`
+ ## License <a name = "License"></a> 
+- Expense Tracker is open source and released under the MIT License.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

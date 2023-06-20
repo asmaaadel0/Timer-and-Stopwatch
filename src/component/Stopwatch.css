@@ -1,0 +1,44 @@
+.time {
+  font-size: 13vw;
+  color: #000;
+  margin: auto;
+}
+
+.stopwatch {
+  font-size: 5rem;
+  animation-delay: 0.9s;
+  margin: 2rem;
+}
+
+.center {
+  border-radius: 20px;
+  margin: auto;
+  padding: 10px;
+  width: 50%;
+  align-items: center;
+  text-align: center;
+}
+
+button {
+  position: relative;
+  flex: 0 0 6.25rem;
+  margin: 0.3125rem;
+  width: 6.25rem;
+  height: 6.25rem;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  background-color: #17a69d;
+  color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0);
+  border-radius: 50%;
+  box-shadow: none;
+  line-height: 1.5;
+  font-size: 18px;
+  font-weight: normal;
+  vertical-align: middle;
+  transition: background-color 0.5s, color 0.5s, border-color 0.5s;
+}
+
+button:hover {
+  background-color: #0d0d0d;
+}
