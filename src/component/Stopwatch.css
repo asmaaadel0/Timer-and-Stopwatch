@@ -1,6 +1,6 @@
 .time {
   font-size: 13vw;
-  color: #000;
+  color: #461346;
   margin: auto;
 }
 
@@ -8,6 +8,7 @@
   font-size: 5rem;
   animation-delay: 0.9s;
   margin: 2rem;
+  color: #000000;
 }
 
 .center {

@@ -9,6 +9,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /* background-color: #242a28; */
-  background: radial-gradient(#303b37, #39433f);
-  color: #e1eeeb;
+  background: radial-gradient(#e9cee9, #ebd8eb);
+  color: #000;
 }
