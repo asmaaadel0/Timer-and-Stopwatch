@@ -16,6 +16,7 @@ function Timer() {
           if (prevTime === 0) {
             clearInterval(intervalId);
             setIsRunning(false);
+            return 0;
           }
           return prevTime - 1;
         });
