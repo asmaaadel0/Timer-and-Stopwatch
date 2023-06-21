@@ -31,7 +31,11 @@ This is a React component that provides a timer and stopwatch functionality. It 
 
 
 
-https://github.com/asmaaadel0/Timer-and-Stopwatch/assets/88618793/c4a8b252-5283-4867-951b-4ec2b4655397
+https://github.com/asmaaadel0/Timer-and-Stopwatch/assets/88618793/40e973c2-0d33-4381-af5f-017d5f39d188
+
+
+
+
 
 
 
