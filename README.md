@@ -12,7 +12,7 @@ This is a React component that provides a timer and stopwatch functionality. It 
 
 ## Website Features <a name = "website-Features"></a>
 
-- Countdown Timer: Start a timer from a specified time and count down until it reaches zero.
+- Timer: Start a timer from a specified time and count down until it reaches zero.
 - Stopwatch: Start a stopwatch and track the elapsed time.
 - Display time in hours, minutes, and seconds format.
 - Start, stop, and reset functionality for both timer and stopwatch.
@@ -49,5 +49,5 @@ https://github.com/asmaaadel0/Timer-and-Stopwatch/assets/88618793/c4a8b252-5283-
  </table>
 
  ## License <a name = "License"></a> 
-- Expense Tracker is open source and released under the MIT License.
+- Timer is open source and released under the MIT License.
 
