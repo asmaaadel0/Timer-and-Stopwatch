@@ -30,7 +30,9 @@ This is a React component that provides a timer and stopwatch functionality. It 
 ## vedio <a name = "vedio"></a>
 
 
-https://github.com/asmaaadel0/Investment-Calculator/assets/88618793/aa6b536c-1b22-4a6a-9f55-734e9802743b
+
+https://github.com/asmaaadel0/Timer-and-Stopwatch/assets/88618793/c4a8b252-5283-4867-951b-4ec2b4655397
+
 
 
 ## Contributors <a name = "Contributors"></a>
