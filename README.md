@@ -1,19 +1,21 @@
 ## 📝 Table of Contents
 
 - [About <a name = "about"></a>](#about-)
-- [website description <a name = "website-description"></a>](#website-description-)
+- [website Features <a name = "website-Features"></a>](#website-Features-)
 - [How to Use <a name = "How-to-Use"></a>](#How-to-Use-)
 - [Website link <a name = "link"></a>](#website-link-)
 - [vedio <a name = "vedio"></a>](#vedio-)
 - [Contributors <a name = "Contributors"></a>](#contributors-)
 - [License <a name = "License"></a>](#License-) 
 ## About <a name = "about"></a>
--  investment calculator is a tool designed to help users estimate the growth of their savings over a specific investment duration.
--   it takes into account the initial/current savings, yearly savings, expected interest rate, and investment duration to calculate various financial metrics for each year.
+This is a React component that provides a timer and stopwatch functionality. It allows you to display and manage time in various formats, including hours, minutes, and seconds.
 
-## website description <a name = "website-description"></a>
+## Website Features <a name = "website-Features"></a>
 
-Investment Calculator is a powerful tool that empowers you to visualize the growth of your savings. By entering your current savings, yearly savings amount, expected interest rate, and investment duration, calculator generates detailed projections for each year. Discover the potential growth of your savings, track the interest earned over time, and make well-informed investment decisions. Start planning for your financial future today with our intuitive and user-friendly Investment Calculator.
+- Countdown Timer: Start a timer from a specified time and count down until it reaches zero.
+- Stopwatch: Start a stopwatch and track the elapsed time.
+- Display time in hours, minutes, and seconds format.
+- Start, stop, and reset functionality for both timer and stopwatch.
 
 ## How to Use <a name = "How-to-Use"></a>
 
@@ -23,7 +25,7 @@ Investment Calculator is a powerful tool that empowers you to visualize the grow
 - Open your browser and visit: `http://localhost:3000`
 
 ## Website link <a name = "link"></a>
-- https://investment-calculator-seven.vercel.app/
+- https://timer-and-stopwatch-mu.vercel.app/
 
 ## vedio <a name = "vedio"></a>
 
