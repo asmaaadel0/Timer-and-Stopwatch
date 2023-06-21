@@ -1,11 +1,12 @@
 import React, { useState } from "react";
 
 import "./TheHeader.css";
-const TheHeader = () => {
+const TheHeader = (props) => {
   const [clicked, setClicked] = useState("timer");
 
   const clickHandler = (title) => {
     setClicked(title);
+    props.onClickHandler(title);
   };
   return (
     <ul>
