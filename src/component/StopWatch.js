@@ -48,11 +48,14 @@ function Stopwatch() {
       <h1 className="stopwatch"> Stopwatch </h1>{" "}
       <div className="center">
         <p className="time"> {formatTime(elapsedTime)} </p>{" "}
-        <button onClick={handleStartStop}>
+        <button className="time-btn" onClick={handleStartStop}>
           {" "}
           {isRunning ? "Stop" : "Start"}{" "}
         </button>{" "}
-        <button onClick={handleReset}> Reset </button>{" "}
+        <button className="time-btn" onClick={handleReset}>
+          {" "}
+          Reset{" "}
+        </button>{" "}
       </div>{" "}
     </div>
   );

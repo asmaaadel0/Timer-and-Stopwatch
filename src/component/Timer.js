@@ -71,11 +71,20 @@ function Timer() {
         </div>{" "}
         <p className="time"> {formatTime(time)} </p>{" "}
         {!isRunning ? (
-          <button onClick={handleStart}> Start </button>
+          <button className="time-btn" onClick={handleStart}>
+            {" "}
+            Start{" "}
+          </button>
         ) : (
-          <button onClick={handleStop}> Stop </button>
+          <button className="time-btn" onClick={handleStop}>
+            {" "}
+            Stop{" "}
+          </button>
         )}{" "}
-        <button onClick={handleReset}> Reset </button>{" "}
+        <button className="time-btn" onClick={handleReset}>
+          {" "}
+          Reset{" "}
+        </button>{" "}
       </div>{" "}
     </div>
   );

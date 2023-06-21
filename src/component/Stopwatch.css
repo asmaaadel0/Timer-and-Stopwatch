@@ -28,7 +28,7 @@
   text-align: center;
 }
 
-button {
+button.time-btn {
   position: relative;
   flex: 0 0 6.25rem;
   margin: 0.3125rem;
